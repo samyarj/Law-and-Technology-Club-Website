@@ -1,0 +1,75 @@
+.title {
+  font-family: "Manrope", sans-serif;
+  color: #100557;
+}
+.pic {
+  background-image: url("images/back.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 400px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.pic2 {
+  background-image: url("images/group.jpeg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 900px; /* You must set a specified height */
+
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.pic3 {
+  margin: 1.5rem;
+  max-width: 100%;
+  height: auto;
+}
+
+/* new */
+.center {
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+  width: 50%;
+  max-width: 400px;
+} 
+@media (min-width: 800px) {
+  .pic3 {
+    max-width: 50%;
+    }
+ }
+@media (max-width: 1000px) {
+  .pic2 {
+    height: 400px;
+  }
+}
+/* .about {
+  background-color: #689fbd;
+} */
+footer {
+  background-color: #100557;
+  color: white;
+  align-items: center;
+  text-align: center;
+  margin-top: 2rem;
+  position: absolute;
+  width: 100%;
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  color: #689fbd;
+}
+.follow {
+  padding: 10px;
+}
+
