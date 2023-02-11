@@ -1,6 +1,6 @@
 # Law & Technology Website ⚖️
 
-This repository contains the code to the Mobile-First & Responsive Website for the club using `HTML`, `CSS` and `JavaScript`.
+This repository contains the code to the Mobile-First & Responsive Website that aims to promote the Law & Technology Club's activity.
 
 ## Getting Started 🚀
 * To run the website locally, simply clone the repository and open the `index.html` file in your web browser. 
