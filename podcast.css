@@ -13,7 +13,6 @@
   text-align: justify;
 }
 
-/* Refaire le formatting des 3 éléments de nouveaux */
 @media (max-width: 600px) {
   .episodez p {
     margin: 2rem;
@@ -23,7 +22,7 @@
     padding: 1rem;
   } */
 }
-/* make it so that text is inside a container when the screen size is bigger than 600px */
+
 @media (min-width: 800px) {
   .episodez p {
     margin-left: 10rem;
