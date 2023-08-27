@@ -1,13 +1,13 @@
 # Law & Technology Website ⚖️
 
-This repository contains the code to the Mobile-First & Responsive Website that aims to promote the Law & Technology Club's activity.
+This repository contains the code to the website that aims to promote the Law & Technology Club's activity.
 
 ## Getting Started 🚀
-* To run the website locally, simply clone the repository and open the `index.html` file in your web browser. 
-* The website is also hosted on GitHub Pages here: https://droit-tech-udem.com/
+* To run the website locally, simply clone the repository and run `src/index.html`. 
+* The website is also hosted online: https://droit-tech-udem.com/
 
 ## File structure 📁
-* There are 4 HTML pages: `events.html`, `execs.html`, `index.html`, and `podcast.html`.
+* There are 4 HTML pages: `index.html`, `execs.html`, `events.html` & `podcast.html`.
 * There is at least one CSS stylesheet for each HTML page: `main3.css`, `events.css`, `mission.css`, `nav.css`, and `podcast.css`.
 * The `script.js` file programs the navigation bar, and only appears on the mobile version.
 
