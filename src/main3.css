@@ -3,7 +3,7 @@
   color: #100557;
 }
 .pic {
-  background-image: url("images/back.jpg"); 
+  background-image: url("../images/back.jpg"); 
   background-color: #cccccc; 
   height: 400px;
   background-position: center; 
@@ -11,7 +11,7 @@
   background-size: cover;
 }
 .pic2 {
-  background-image: url("images/group.jpeg"); 
+  background-image: url("../images/group.jpeg"); 
   background-color: #cccccc;
   height: 900px;
 
