@@ -56,23 +56,6 @@ footer {
   width: 100%;
 }
 
-.fa {
-  padding: 10px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  color: white;
-}
-
-/* hover effect if you want */
-.fa:hover {
-  color: #689fbd;
-}
-.follow {
-  padding: 10px;
-}
-
 .lists {
   margin: 1rem;
   padding: 1rem;
@@ -320,4 +303,21 @@ body {
 }
 .bot:hover {
   color: #689fbd;
+}
+
+footer .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+
+/* hover effect if you want */
+footer .fa:hover {
+  color: #689fbd;
+}
+footer .follow {
+  padding: 10px;
 }
