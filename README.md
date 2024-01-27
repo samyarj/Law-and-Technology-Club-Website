@@ -5,7 +5,6 @@ This repository contains the code to the website that aims to promote the Law & 
 ## Getting Started 🚀
 
 - To run the website locally, simply clone the repository and run `src/index.html`.
-- The website is also hosted online: https://droit-tech-udem.com/
 
 ## File structure 📁
 
